@@ -4,9 +4,9 @@
 This repository contains an **end-to-end machine learning model** designed to predict real estate prices. The model is simple yet effective, built using Python and leverages a few key libraries to process data, train a model, and provide predictions through an easy-to-use interface.
 
 ## Project Structure
-- **`realestate.csv`**: The dataset used for model training and evaluation. It includes features like distance from the station, proximity to convenience stores, latitude, and longitude, which are crucial for predicting property prices.
+- **`Real_Estate.csv`**: The dataset used for model training and evaluation. It includes features like distance from the station, proximity to convenience stores, latitude, and longitude, which are crucial for predicting property prices.
   
-- **`realestate.ipynb`**: The Python script that:
+- **`Realestate.ipynb`**: The Python script that:
   - Loads and preprocesses the dataset.
   - Trains a linear regression model.
   - Deploys a simple Dash app where users can input key features to get real-time price predictions.
